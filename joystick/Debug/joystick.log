@@ -1,0 +1,9 @@
+﻿Build started 06-Apr-17 5:49:49 PM.
+     1>Project "C:\Users\owner\Desktop\RCCAR\joystick\joystick.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         joystick.vcxproj -> C:\Users\owner\Desktop\RCCAR\joystick\.\Debug\Joystick.exe
+     1>Done Building Project "C:\Users\owner\Desktop\RCCAR\joystick\joystick.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
