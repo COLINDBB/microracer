@@ -4,6 +4,7 @@ char buff_out[64];
 int *joystick_int = (int*)buff_in;
 char *joystick_char =buff_in;
 bool proceed = false;
+bool changed = true;
 
 //LED 
 int L1 = 12;
